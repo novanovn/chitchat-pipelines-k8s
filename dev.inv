@@ -1,2 +1,2 @@
 [k8smaster]
-10.8.3.104 ansible_user=root
+10.8.3.104 ansible_user=kubeadm
