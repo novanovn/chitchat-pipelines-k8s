@@ -2,7 +2,7 @@
 - name: create service for deployment
   hosts: k8smaster
   become: true
-  user: root
+  user: kubeadm
 
   tasks:
   - name: create a service
